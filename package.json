@@ -9,6 +9,6 @@
     "express": "3.5.1",
     "ejs": "*",
     "stylus": "*",
-    "socket.io": "~0.9.16"
+    "socket.io": "~1.0.1"
   }
 }
